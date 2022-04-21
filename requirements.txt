@@ -1,4 +1,4 @@
-cloudscraper
+cloudscraper=1.2.60
 socks
 pysocks
 colorama
